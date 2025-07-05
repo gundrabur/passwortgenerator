@@ -21,7 +21,7 @@ Der Passwortgenerator ermöglicht es Benutzern:
 
 1. Klonen Sie das Repository:
 ```bash
-git clone https://github.com/ihr-username/passwortgenerator.git
+git clone https://github.com/gundrabur/passwortgenerator.git
 ```
 
 2. Wechseln Sie in das Projektverzeichnis:
