@@ -1,6 +1,6 @@
 # Passwort Generator - Flutter Tutorial
 
-Beispielprojekt aus PC-Magazin + PCGo Ausgabe 09/2025.
+Beispielprojekt aus PCgo + PC Magazin Ausgabe 09/2025.
 Eine Flutter-Anwendung zur Generierung sicherer Passwörter.
 
 ## Projektbeschreibung
@@ -46,7 +46,7 @@ flutter run
 
 ## Weitere Informationen
 
-Den vollständigen Tutorial-Artikel finden Sie in der PC-Magazin + PCGo Ausgabe 09/2025.
+Den vollständigen Tutorial-Artikel finden Sie in der PCgo + PC Magazin Ausgabe 09/2025.
 Dort werden alle Implementierungsdetails und Flutter-Konzepte ausführlich erklärt.
 
 ## Lizenz
@@ -57,7 +57,7 @@ Sie können den Code frei verwenden und modifizieren.
 ## Autor
 
 Christian Möller
-PC-Magazin + PCGo (Ausgabe 09/2025)
+PCgo + PC Magazin (Ausgabe 09/2025)
 
 ---
 *Hinweis: Dies ist ein Beispielprojekt zu Lernzwecken. In produktiven Anwendungen sollten zusätzliche Sicherheitsaspekte berücksichtigt werden.*

@@ -2,7 +2,7 @@
 // Autor: Christian Möller
 // Version: 1.0.0
 // Datum: 05.07.2025
-// Für PC-Magazin+PCGo 09/2025
+// Für PCgo + PC Magazin 09/2025
 // Diese Anwendung generiert sichere Passwörter basierend auf Benutzereinstellungen
 // Sie lässt sich in allen Plattformen, die Flutter unterstützen, ausführen
 
